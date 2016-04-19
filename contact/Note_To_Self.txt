@@ -1,3 +1,0 @@
-This has worked sucessfully on linweb hosting (linweb37 via wp.ordinarymark.com) so should be able to be used as a test email script on the linweb platform.
-
-This has also worked OK on Linux Clustered/NGSH hosting (via queensofink.com after disabling the site's .htaccess file as it had rewrite rules for php scripts)
